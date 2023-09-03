@@ -34,6 +34,7 @@ const sampleData = [
         "currentlySelling":"True",
         "address":"0xe81Bf5A757C4f7F82a2F23b1e59bE45c33c5b13",
     },
+   
 ];
 const [data, updateData] = useState(sampleData);
 const [dataFetched, updateFetched] = useState(false);
